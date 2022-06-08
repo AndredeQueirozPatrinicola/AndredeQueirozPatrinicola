@@ -1,10 +1,12 @@
-## Olá! Eu sou o André de Queiroz Patrinicola!
+## Hello! My name is André de Queiroz Patrinicola!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andredequeirozpatrinicola/)
 
-
+<hr>
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=github_dark)
+
+<hr>
 
 ### :rocket: Skills:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
