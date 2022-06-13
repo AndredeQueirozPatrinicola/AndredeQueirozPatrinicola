@@ -2,6 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andredequeirozpatrinicola/)
 
+
+
+####  I'm a Python developer currently intern of Faculty of Philosophy, Letters and Humanities(Faculdade de filosofia letras e Ciências Humanas - FFLCH) at São Paulo university, working with Data Science and Web Development at the researcher's institutional support office. I'm studing geography at the same college and information systems at the National Apprenticeship Service (Serviço Nacional de Aprendizagem - SENAC)
+
 <hr>
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=github_dark)
