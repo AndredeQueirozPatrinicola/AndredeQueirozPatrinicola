@@ -4,7 +4,7 @@
 
 
 
-####  I'm a Python developer currently intern of Faculty of Philosophy, Letters and Humanities(Faculdade de Filosofia Letras e Ciências Humanas - FFLCH) at São Paulo university, working with Data Science and Web Development at the researcher's institutional support office. I'm studing geography at the same college and information systems at the National Apprenticeship Service (Serviço Nacional de Aprendizagem - SENAC)
+####  I'm a Python developer currently intern of Faculty of Philosophy, Letters and Humanities(Faculdade de Filosofia Letras e Ciências Humanas - FFLCH) at São Paulo university, working with Data Science and Web Development at the researcher's institutional support office. I'm studing geography at the same college and information systems at the National Service of Commercial Apprenticeship (Serviço Nacional de Aprendizagem Comercial - SENAC)
 
 <hr>
 
