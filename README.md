@@ -4,11 +4,12 @@
 
 
 
-####  I'm a Python developer currently intern of Faculty of Philosophy, Letters and Humanities(Faculdade de Filosofia Letras e Ciências Humanas - FFLCH) at São Paulo university, working with Data Science and Web Development at the researcher's institutional support office. I'm studing geography at the same college and information systems at the National Service of Commercial Apprenticeship (Serviço Nacional de Aprendizagem Comercial - SENAC)
+####  I'm a Python developer currently intern of Faculty of Philosophy, Letters and Humanities(Faculdade de Filosofia Letras e Ciências Humanas - FFLCH) at São Paulo university, working as a Full-Stack developer at the researcher's institutional support office. I'm studing geography at the same college and information systems at the National Service of Commercial Apprenticeship (Serviço Nacional de Aprendizagem Comercial - SENAC)
 
 <hr>
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndredeQueirozPatrinicola&langs_count=8)](https://github.com/AndredeQueirozPatrinicola/github-readme-stats)
 
 <hr>
 
