@@ -9,7 +9,7 @@
 <hr>
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndredeQueirozPatrinicola&langs_count=8)](https://github.com/AndredeQueirozPatrinicola/github-readme-stats)
+
 
 <hr>
 
