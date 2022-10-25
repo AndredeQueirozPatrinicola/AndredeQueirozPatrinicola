@@ -12,6 +12,5 @@
 
 <hr>
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=github_dark)
-
+![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndredeQueirozPatrinicola&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndredeQueirozPatrinicola&layout=compact)](https://github.com/AndredeQueirozPatrinicola/github-readme-stats)
