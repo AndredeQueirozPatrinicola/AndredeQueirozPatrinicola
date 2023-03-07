@@ -1,5 +1,6 @@
-# André de Queiroz Patrinicola <a href='https://www.linkedin.com/in/andredequeirozpatrinicola/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px"/></a> 
+# André de Queiroz Patrinicola 
  
+ <a href='https://www.linkedin.com/in/andredequeirozpatrinicola/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px"/></a> 
 ## Stack:
  
 <div style="display: flex"> 
